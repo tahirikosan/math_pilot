@@ -1,16 +1,38 @@
-# math_pilot
 
-A new Flutter project.
+## :dart: About ##
 
-## Getting Started
+Math Pliot is a 2D top-down space shooter written in dart using Flutter and the awesome Flame engine.
 
-This project is a starting point for a Flutter application.
+## :sparkles: Features ##
 
-A few resources to get you started if this is your first Flutter project:
+:heavy_check_mark: It works! 😅
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## :rocket: Technologies ##
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The following tools were used in this project:
+
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Flame Engine](https://flame-engine.org/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Flutter](https://flutter.dev/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/ufrshubham/spacescape
+
+# Access
+$ cd spacescape
+
+# Install dependencies
+$ flutter pub get
+
+# Run the project
+$ flutter run
+
+# The server will run the game on any connect and supported device.
+```
