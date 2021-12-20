@@ -23,10 +23,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/ufrshubham/spacescape
+$ git clone https://github.com/tahirikosan/math_pilot.git
 
 # Access
-$ cd spacescape
+$ cd math_pilot
 
 # Install dependencies
 $ flutter pub get
