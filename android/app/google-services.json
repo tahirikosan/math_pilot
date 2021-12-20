@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548055791396",
+    "project_id": "math-pilot",
+    "storage_bucket": "math-pilot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548055791396:android:d165dfb1178c1079a825b1",
+        "android_client_info": {
+          "package_name": "com.tahiriko.math_pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548055791396-v3q6hv95ujfrs68bcce7ptlumlqop73d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahiriko.math_pilot",
+            "certificate_hash": "fe709f0f7377e745031cf22a3d0cee8b352057ae"
+          }
+        },
+        {
+          "client_id": "548055791396-8gjrlqjn4qp4ntkj6lsigtn0s4ailj6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPjFWNpSOAmrr3qI-f9lmpajzJhRNvQT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548055791396-8gjrlqjn4qp4ntkj6lsigtn0s4ailj6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
